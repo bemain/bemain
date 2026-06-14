@@ -1,4 +1,4 @@
-# Hi, I'm Benjamin 👋
+# Benjamin Agardh
 
 I'm an ambitious and forward-thinking engineering student with a passion for technology, music, and coding. 
 
